@@ -23,5 +23,11 @@ void sayHello(char* str) {
 }
 
 
+const char* get_av_version_info() {
+	printf("av_version_info:%s", av_version_info());
+	return av_version_info();
+}
+
+
 
 
