@@ -1,0 +1,8 @@
+/ffmpeg-lib/Debug
+.idea
+v14
+
+/ffmpeg-lib/*.opendb
+/ffmpeg-lib/ffmpeg-lib.VC.db
+
+/ffmpeg-lib/test/Debug
